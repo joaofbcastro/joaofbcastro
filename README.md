@@ -3,7 +3,7 @@
 
 ### 👋 Hi there!
 
-Boas vindas aos meus repositorios, espero que goste do que verá por aqui.
+Boas vindas aos meus repositórios, espero que surpreenda-se.😉
 
 🦄 Minhas habilidades: <b>HTML, CSS, JS, Python, ReactJs, React Native.</b>
 
