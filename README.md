@@ -1,4 +1,4 @@
-<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
+[<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" width="400px" align="right" alt="Computador">]()
 
 
 ### 👋 Hi there!
@@ -9,8 +9,8 @@ Boas vindas aos meus repositórios, espero que surpreenda-se.😉
 
 💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem.
 
-[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.youtube.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 
