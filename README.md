@@ -5,7 +5,7 @@
 
 Boas vindas aos meus repositórios, espero que surpreenda-se.😉
 
-🦄 Minhas habilidades: <b>HTML, CSS, JS, Python, ReactJs, React Native.</b>
+🦄 Minhas habilidades: <b>HTML, CSS, JavaScript, Python, ReactJs.</b>
 
 💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem.
 
