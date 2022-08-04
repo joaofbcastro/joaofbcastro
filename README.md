@@ -1,4 +1,4 @@
-[<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" width="400px" align="right" alt="Computador">](https://github.com/joaofbcastro)
+<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" width="400px" align="right" alt="Computador">
 
 
 ### 👋 Hi there!
