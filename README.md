@@ -1,4 +1,4 @@
-<img src="assets/astronaut.svg" width="400px" align="right" alt="Computador">
+<img src="assets/astronaut.svg" width="360px" align="right" alt="Computador">
 
 
 ### 👋 Hi there!
