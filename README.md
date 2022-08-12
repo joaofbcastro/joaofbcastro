@@ -5,7 +5,9 @@
 
 Boas vindas aos meus repositórios, espero que surpreenda-se.😉
 
-🦄 Minhas habilidades: <b>HTML, CSS, JavaScript, Python, ReactJs.</b>
+Sou estudante de Análise e Desenvolvimento de Sistemas e no momento estou em busca de minha primeira vaga na àrea de dados.
+
+🦄 Minhas habilidades: <b>HTML, CSS, JavaScript, Python, SQL, ReactJs.</b>
 
 💌 Se você deseja realizar um projeto comigo (ou bater papo), me envie uma mensagem.
 
