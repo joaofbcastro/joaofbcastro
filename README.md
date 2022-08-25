@@ -1,3 +1,9 @@
+<!--
+*** Obrigado por estar vendo o meu README. Se você tiver alguma sugestão
+*** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma OR
+*** ou abra uma Issue com a tag "sugestão".
+-->
+
 <img src="assets/astronaut.svg" width="360px" align="right" alt="Computador">
 
 
